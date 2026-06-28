@@ -1,6 +1,6 @@
 # 📊 Nginx Log Analyser
 
-A command-line tool written in Python to parse and analyse Nginx access logs. It helps identify traffic patterns, most visited pages, frequent visitors, and common response statuses — useful for monitoring, debugging and security checks.
+A command-line tool written in Python to parse and analyse Nginx access logs. It helps identify traffic patterns, most visited pages, frequent visitors, and common response statuses, useful for monitoring, debugging and security checks.
 
 ---
 
@@ -21,5 +21,5 @@ A command-line tool written in Python to parse and analyse Nginx access logs. It
 git clone https://github.com/bmeshun-star/nginx-log-analyser.git
 cd nginx-log-analyser
 
-### 🔗 Project URL
+ 🔗 Project URL
 https://roadmap.sh/projects/nginx-log-analyser
